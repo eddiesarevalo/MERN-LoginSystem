@@ -1,7 +1,6 @@
-# Mortgage Assessor
+# MERN Login System
 
-This is a web app to help break down how your mortgage will be paid back over its term.
-
+A login system based on Keith the Coder's Tutorial.
 In this login system each computer will have its own session.
 
 ## MERN-boilerplate
