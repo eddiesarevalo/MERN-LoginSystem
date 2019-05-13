@@ -27,4 +27,33 @@ $input-shadow: none;
 
 .navbarTitle{
     font-size: xx-large;
+    font-weight: bold;
+}
+
+.contentContainer{
+    text-align: center;
+    display: inline-grid;
+    justify-content: center;
+}
+
+.card.signInContainer{
+    background-color: #efefef;
+}
+
+.card.signUpContainer{
+    background-color: #efefef;
+}
+
+.card-content{
+    p{
+        margin-bottom: 5px;
+    }
+
+    .control{
+        margin-bottom: 5px;
+    }
+
+    .control.buttonControl{
+        display: initial;
+    }
 }

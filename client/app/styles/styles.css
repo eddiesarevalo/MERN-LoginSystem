@@ -11508,5 +11508,35 @@ label.panel-block:hover {
 
 .navbarTitle {
   font-size: xx-large;
+  font-weight: bold;
+}
+
+.contentContainer {
+  text-align: center;
+  display: -ms-inline-grid;
+  display: inline-grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.card.signInContainer {
+  background-color: #efefef;
+}
+
+.card.signUpContainer {
+  background-color: #efefef;
+}
+
+.card-content p {
+  margin-bottom: 5px;
+}
+
+.card-content .control {
+  margin-bottom: 5px;
+}
+
+.card-content .control.buttonControl {
+  display: initial;
 }
 /*# sourceMappingURL=styles.css.map */
